@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
+#
 def Fix(x):
     if type(x) == str:
         x = x.replace(",", "")

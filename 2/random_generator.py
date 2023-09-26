@@ -1,5 +1,5 @@
 import mouse
-
+#
 
 def main():
     print("Move your mouse to generate random number.")
